@@ -2,7 +2,7 @@
 
 PLC program in **Structured Text (IEC 61131-3)** that controls a simplified welding cell as a **step chain** (state machine). Runs on the CODESYS Control Win V3 soft PLC.
 
-![Running program](screenshot.png)
+![Running program](Screenshot%202026-10-30%20140932.png)
 
 ## Sequence
 
